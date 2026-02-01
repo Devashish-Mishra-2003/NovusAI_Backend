@@ -1,0 +1,68 @@
+[
+  {
+    "condition": "obesity",
+    "global_market_size_usd_bn": 25.4,
+    "forecast_market_size_usd_bn_2030": 68.0,
+    "cagr_percent": 18.5,
+    "patient_population_millions": 650,
+    "treated_population_percent": 6.2,
+    "number_of_competitors": 8,
+    "branded_vs_generic_mix": "branded-dominant",
+    "key_competitor_classes": [
+      "GLP-1 agonists",
+      "Dual GLP-1/GIP"
+    ],
+    "commercial_signals": [
+      "Strong payer uptake in US and EU",
+      "Supply constraints impacting near-term sales"
+    ],
+    "risks": [
+      "Pricing pressure from next-generation incretins",
+      "Long-term cardiovascular outcomes scrutiny"
+    ]
+  },
+  {
+    "condition": "type 2 diabetes",
+    "global_market_size_usd_bn": 45.0,
+    "forecast_market_size_usd_bn_2030": 72.5,
+    "cagr_percent": 9.8,
+    "patient_population_millions": 420,
+    "treated_population_percent": 28.0,
+    "number_of_competitors": 12,
+    "branded_vs_generic_mix": "branded-heavy",
+    "key_competitor_classes": [
+      "GLP-1 agonists",
+      "Insulin",
+      "SGLT2 inhibitors"
+    ],
+    "commercial_signals": [
+      "GLP-1s shifting standard of care",
+      "Strong guideline support"
+    ],
+    "risks": [
+      "Formulary exclusions in price-sensitive markets"
+    ]
+  },
+  {
+    "condition": "nonalcoholic steatohepatitis",
+    "global_market_size_usd_bn": 6.2,
+    "forecast_market_size_usd_bn_2030": 21.0,
+    "cagr_percent": 22.1,
+    "patient_population_millions": 115,
+    "treated_population_percent": 2.5,
+    "number_of_competitors": 15,
+    "branded_vs_generic_mix": "generic-heavy",
+    "key_competitor_classes": [
+      "Metabolic modulators",
+      "FXR agonists"
+    ],
+    "commercial_signals": [
+      "High unmet need with no approved therapies",
+      "Multiple late-stage pipeline assets"
+    ],
+    "risks": [
+      "High clinical failure rates in NASH",
+      "Regulatory uncertainty on endpoints"
+    ]
+  }
+]

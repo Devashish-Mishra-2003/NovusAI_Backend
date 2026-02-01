@@ -1,0 +1,251 @@
+{
+  "semaglutide": [
+    {
+      "patent_number": "US76000001",
+      "title": "Semaglutide compositions for weight management in non-diabetic subjects",
+      "assignee": "MetaboRx Pharma",
+      "filing_date": "2014-02-10",
+      "grant_date": "2018-06-12",
+      "cited_by_count": 190,
+      "url": "https://patents.google.com/patent/US76000001",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["Obesity", "NASH"],
+      "evidence_hints": "Claims emphasize appetite suppression and hepatic fat reduction endpoints."
+    },
+    {
+      "patent_number": "US76000002",
+      "title": "Oral semaglutide with permeation enhancer for cardiovascular risk reduction",
+      "assignee": "CardioMetrix AG",
+      "filing_date": "2015-09-01",
+      "grant_date": "2019-05-20",
+      "cited_by_count": 120,
+      "url": "https://patents.google.com/patent/US76000002",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["ASCVD risk reduction"],
+      "evidence_hints": "Abstract mentions MACE surrogate endpoints and lipid profile changes."
+    },
+    {
+      "patent_number": "US76000003",
+      "title": "Fixed-dose semaglutide with SGLT2 inhibitor for HFpEF",
+      "assignee": "CardioMetrix AG",
+      "filing_date": "2016-07-12",
+      "grant_date": "2020-11-30",
+      "cited_by_count": 85,
+      "url": "https://patents.google.com/patent/US76000003",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["HFpEF"],
+      "evidence_hints": "Combination therapy claims specify exercise capacity and NT-proBNP as endpoints."
+    },
+    {
+      "patent_number": "US76000004",
+      "title": "Semaglutide for alcohol use disorder",
+      "assignee": "NeuroEndo Therapeutics",
+      "filing_date": "2018-01-22",
+      "grant_date": "2022-09-14",
+      "cited_by_count": 45,
+      "url": "https://patents.google.com/patent/US76000004",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["Alcohol use disorder"],
+      "evidence_hints": "Claims reference craving scales and relapse prevention measures."
+    },
+    {
+      "patent_number": "US76000005",
+      "title": "Topical semaglutide nanoformulation for psoriasis",
+      "assignee": "DermRx Labs",
+      "filing_date": "2019-03-14",
+      "grant_date": "2023-12-01",
+      "cited_by_count": 20,
+      "url": "https://patents.google.com/patent/US76000005",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["Psoriasis"],
+      "evidence_hints": "Local anti-inflammatory effects claimed; PASI score referenced."
+    }
+  ],
+  "metformin": [
+    {
+      "patent_number": "US76100001",
+      "title": "Metformin for polycystic ovary syndrome with insulin resistance",
+      "assignee": "EndoWomen Health",
+      "filing_date": "2011-06-21",
+      "grant_date": "2015-03-10",
+      "cited_by_count": 210,
+      "url": "https://patents.google.com/patent/US76100001",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["PCOS"],
+      "evidence_hints": "Outcomes on ovulatory function, androgen levels described."
+    },
+    {
+      "patent_number": "US76100002",
+      "title": "Metformin as adjuvant therapy in colorectal cancer",
+      "assignee": "OncoBio Inc.",
+      "filing_date": "2013-02-09",
+      "grant_date": "2017-08-22",
+      "cited_by_count": 95,
+      "url": "https://patents.google.com/patent/US76100002",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["Colorectal cancer"],
+      "evidence_hints": "Claims cite anti-proliferative markers and DFS endpoints."
+    },
+    {
+      "patent_number": "US76100003",
+      "title": "Metformin for nonalcoholic steatohepatitis",
+      "assignee": "HepatoCare Ltd.",
+      "filing_date": "2014-11-02",
+      "grant_date": "2018-12-19",
+      "cited_by_count": 80,
+      "url": "https://patents.google.com/patent/US76100003",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["NASH"],
+      "evidence_hints": "Histologic improvement of steatosis/inflammation claimed."
+    },
+    {
+      "patent_number": "US76100004",
+      "title": "Sustained-release metformin for antipsychotic-induced weight gain",
+      "assignee": "NeuroMetabolic Corp.",
+      "filing_date": "2016-08-30",
+      "grant_date": "2020-04-27",
+      "cited_by_count": 60,
+      "url": "https://patents.google.com/patent/US76100004",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["Antipsychotic-induced weight gain"],
+      "evidence_hints": "Endpoints include BMI change and metabolic panel normalization."
+    },
+    {
+      "patent_number": "US76100005",
+      "title": "Metformin adjunct in tuberculosis therapy",
+      "assignee": "ResistX Pharma",
+      "filing_date": "2017-09-18",
+      "grant_date": "2021-03-12",
+      "cited_by_count": 45,
+      "url": "https://patents.google.com/patent/US76100005",
+      "known_indications": ["Type 2 diabetes"],
+      "candidate_new_indications": ["Tuberculosis adjunct"],
+      "evidence_hints": "Immunomodulatory effects and sputum conversion rate discussed."
+    }
+  ],
+  "naltrexone": [
+    {
+      "patent_number": "US76200001",
+      "title": "Low-dose naltrexone for Crohn’s disease",
+      "assignee": "ImmunoBalance Biotech",
+      "filing_date": "2010-01-19",
+      "grant_date": "2014-04-02",
+      "cited_by_count": 130,
+      "url": "https://patents.google.com/patent/US76200001",
+      "known_indications": ["Opioid/alcohol dependence"],
+      "candidate_new_indications": ["Crohn’s disease"],
+      "evidence_hints": "Mucosal healing and CDAI improvements claimed."
+    },
+    {
+      "patent_number": "US76200002",
+      "title": "Naltrexone-bupropion for binge eating disorder",
+      "assignee": "NeuroEndo Therapeutics",
+      "filing_date": "2012-05-12",
+      "grant_date": "2016-08-01",
+      "cited_by_count": 85,
+      "url": "https://patents.google.com/patent/US76200002",
+      "known_indications": ["Opioid/alcohol dependence"],
+      "candidate_new_indications": ["Binge eating disorder"],
+      "evidence_hints": "Endpoints reference binge frequency reduction."
+    },
+    {
+      "patent_number": "US76200003",
+      "title": "Topical naltrexone for pruritus",
+      "assignee": "DermRx Labs",
+      "filing_date": "2015-06-08",
+      "grant_date": "2019-11-23",
+      "cited_by_count": 60,
+      "url": "https://patents.google.com/patent/US76200003",
+      "known_indications": ["Opioid/alcohol dependence"],
+      "candidate_new_indications": ["Pruritus"],
+      "evidence_hints": "Claims cite itch intensity scales and sleep disturbance improvements."
+    },
+    {
+      "patent_number": "US76200004",
+      "title": "Naltrexone for fibromyalgia",
+      "assignee": "NeuroEndo Therapeutics",
+      "filing_date": "2017-02-16",
+      "grant_date": "2021-07-12",
+      "cited_by_count": 40,
+      "url": "https://patents.google.com/patent/US76200004",
+      "known_indications": ["Opioid/alcohol dependence"],
+      "candidate_new_indications": ["Fibromyalgia"],
+      "evidence_hints": "Functional pain scales and fatigue endpoints present."
+    },
+    {
+      "patent_number": "US76200005",
+      "title": "Oral naltrexone for chronic cough",
+      "assignee": "RespiraBio plc",
+      "filing_date": "2018-10-25",
+      "grant_date": "2022-12-30",
+      "cited_by_count": 25,
+      "url": "https://patents.google.com/patent/US76200005",
+      "known_indications": ["Opioid/alcohol dependence"],
+      "candidate_new_indications": ["Chronic cough"],
+      "evidence_hints": "Cough frequency reduction and quality-of-life scores claimed."
+    }
+  ],
+  "minoxidil": [
+    {
+      "patent_number": "US76300001",
+      "title": "Oral low-dose minoxidil for female pattern hair loss",
+      "assignee": "DermRx Labs",
+      "filing_date": "2013-03-22",
+      "grant_date": "2017-01-04",
+      "cited_by_count": 90,
+      "url": "https://patents.google.com/patent/US76300001",
+      "known_indications": ["Hypertension", "Topical alopecia"],
+      "candidate_new_indications": ["Oral low-dose alopecia"],
+      "evidence_hints": "Endpoints include hair density and adverse event mitigation."
+    },
+    { "patent_number": "US76300002", "title": "Minoxidil microneedle patch", "assignee": "AeroBio Devices", "filing_date": "2014-07-11", "grant_date": "2018-03-30", "cited_by_count": 65, "url": "https://patents.google.com/patent/US76300002", "known_indications": ["Hypertension", "Topical alopecia"], "candidate_new_indications": ["Device-enabled scalp delivery"], "evidence_hints": "Improved follicular penetration and adherence claims." },
+    { "patent_number": "US76300003", "title": "Minoxidil for beard growth", "assignee": "DermRx Labs", "filing_date": "2015-10-01", "grant_date": "2020-01-21", "cited_by_count": 50, "url": "https://patents.google.com/patent/US76300003", "known_indications": ["Hypertension", "Topical alopecia"], "candidate_new_indications": ["Beard growth"], "evidence_hints": "Terminal hair count improvements reported." },
+    { "patent_number": "US76300004", "title": "Minoxidil for eyebrow hypotrichosis", "assignee": "CosmoAesthetics Inc.", "filing_date": "2016-09-19", "grant_date": "2021-06-02", "cited_by_count": 35, "url": "https://patents.google.com/patent/US76300004", "known_indications": ["Hypertension", "Topical alopecia"], "candidate_new_indications": ["Eyebrow hypotrichosis"], "evidence_hints": "Endpoint: brow density and thickness." },
+    { "patent_number": "US76300005", "title": "Minoxidil foam with anti-irritants", "assignee": "DermRx Labs", "filing_date": "2017-12-12", "grant_date": "2022-05-19", "cited_by_count": 22, "url": "https://patents.google.com/patent/US76300005", "known_indications": ["Hypertension", "Topical alopecia"], "candidate_new_indications": ["Improved tolerability formulation"], "evidence_hints": "Reduced dermatitis incidence in claims." }
+  ],
+  "ketamine": [
+    { "patent_number": "US76400001", "title": "Intranasal ketamine for postpartum depression", "assignee": "NeuroCure Inc.", "filing_date": "2013-12-14", "grant_date": "2017-07-18", "cited_by_count": 140, "url": "https://patents.google.com/patent/US76400001", "known_indications": ["Anesthesia", "TRD"], "candidate_new_indications": ["Postpartum depression"], "evidence_hints": "Rapid onset endpoints cited (hours-days)." },
+    { "patent_number": "US76400002", "title": "Ketamine for chronic neuropathic pain", "assignee": "PainRelief Systems", "filing_date": "2014-05-21", "grant_date": "2018-08-29", "cited_by_count": 95, "url": "https://patents.google.com/patent/US76400002", "known_indications": ["Anesthesia", "TRD"], "candidate_new_indications": ["Neuropathic pain"], "evidence_hints": "Pain scales and functional improvements." },
+    { "patent_number": "US76400003", "title": "Sublingual ketamine for OCD", "assignee": "NeuroEndo Therapeutics", "filing_date": "2016-02-19", "grant_date": "2020-10-13", "cited_by_count": 60, "url": "https://patents.google.com/patent/US76400003", "known_indications": ["Anesthesia", "TRD"], "candidate_new_indications": ["OCD"], "evidence_hints": "Y-BOCS reductions referenced." },
+    { "patent_number": "US76400004", "title": "Ketamine plus psychotherapy scheduling protocol", "assignee": "MindCare Labs", "filing_date": "2017-06-03", "grant_date": "2021-12-21", "cited_by_count": 40, "url": "https://patents.google.com/patent/US76400004", "known_indications": ["Anesthesia", "TRD"], "candidate_new_indications": ["Protocol optimization"], "evidence_hints": "Dose-timing and session structure highlighted." },
+    { "patent_number": "US76400005", "title": "Topical ketamine for vulvodynia", "assignee": "DermRx Labs", "filing_date": "2018-09-28", "grant_date": "2022-11-09", "cited_by_count": 25, "url": "https://patents.google.com/patent/US76400005", "known_indications": ["Anesthesia", "TRD"], "candidate_new_indications": ["Vulvodynia"], "evidence_hints": "Pain scales and QoL endpoints included." }
+  ],
+  "n-acetylcysteine": [
+    { "patent_number": "US76500001", "title": "NAC for trichotillomania", "assignee": "NeuroEndo Therapeutics", "filing_date": "2012-04-02", "grant_date": "2016-01-17", "cited_by_count": 70, "url": "https://patents.google.com/patent/US76500001", "known_indications": ["Acetaminophen overdose", "Mucolytic"], "candidate_new_indications": ["Trichotillomania"], "evidence_hints": "Compulsion scale improvements cited." },
+    { "patent_number": "US76500002", "title": "NAC for cannabis use disorder", "assignee": "ImmunoBalance Biotech", "filing_date": "2013-06-21", "grant_date": "2017-09-13", "cited_by_count": 55, "url": "https://patents.google.com/patent/US76500002", "known_indications": ["Acetaminophen overdose", "Mucolytic"], "candidate_new_indications": ["Cannabis use disorder"], "evidence_hints": "Abstinence rates and craving scores." },
+    { "patent_number": "US76500003", "title": "NAC for bipolar depression adjunct", "assignee": "MindCare Labs", "filing_date": "2015-05-09", "grant_date": "2019-03-30", "cited_by_count": 50, "url": "https://patents.google.com/patent/US76500003", "known_indications": ["Acetaminophen overdose", "Mucolytic"], "candidate_new_indications": ["Bipolar depression adjunct"], "evidence_hints": "MADRS/HDRS improvements claimed." },
+    { "patent_number": "US76500004", "title": "NAC for COPD exacerbation prevention", "assignee": "RespiraBio plc", "filing_date": "2016-08-11", "grant_date": "2021-01-05", "cited_by_count": 40, "url": "https://patents.google.com/patent/US76500004", "known_indications": ["Acetaminophen overdose", "Mucolytic"], "candidate_new_indications": ["COPD exacerbation prevention"], "evidence_hints": "AE rate reduction and lung function endpoints." },
+    { "patent_number": "US76500005", "title": "NAC for autism spectrum disorder irritability", "assignee": "NeuroEndo Therapeutics", "filing_date": "2017-10-14", "grant_date": "2022-02-18", "cited_by_count": 28, "url": "https://patents.google.com/patent/US76500005", "known_indications": ["Acetaminophen overdose", "Mucolytic"], "candidate_new_indications": ["ASD irritability"], "evidence_hints": "Aberrant Behavior Checklist subscale referenced." }
+  ],
+  "spironolactone": [
+    { "patent_number": "US76600001", "title": "Spironolactone for acne in adult women", "assignee": "DermRx Labs", "filing_date": "2011-11-01", "grant_date": "2015-02-20", "cited_by_count": 120, "url": "https://patents.google.com/patent/US76600001", "known_indications": ["Heart failure", "Hypertension"], "candidate_new_indications": ["Adult female acne"], "evidence_hints": "Lesion count reductions and hormonal profiles." },
+    { "patent_number": "US76600002", "title": "Spironolactone for androgenic alopecia (women)", "assignee": "DermRx Labs", "filing_date": "2013-03-09", "grant_date": "2017-06-18", "cited_by_count": 85, "url": "https://patents.google.com/patent/US76600002", "known_indications": ["Heart failure", "Hypertension"], "candidate_new_indications": ["Female androgenic alopecia"], "evidence_hints": "Hair density and Ferriman–Gallwey correlations." },
+    { "patent_number": "US76600003", "title": "Topical spironolactone for seborrheic dermatitis", "assignee": "DermRx Labs", "filing_date": "2015-07-02", "grant_date": "2019-08-29", "cited_by_count": 45, "url": "https://patents.google.com/patent/US76600003", "known_indications": ["Heart failure", "Hypertension"], "candidate_new_indications": ["Seborrheic dermatitis"], "evidence_hints": "Erythema and scaling indices claimed." },
+    { "patent_number": "US76600004", "title": "Spironolactone for female hirsutism", "assignee": "EndoWomen Health", "filing_date": "2016-10-19", "grant_date": "2020-12-06", "cited_by_count": 38, "url": "https://patents.google.com/patent/US76600004", "known_indications": ["Heart failure", "Hypertension"], "candidate_new_indications": ["Female hirsutism"], "evidence_hints": "Hair growth indexes and hormonal endpoints." },
+    { "patent_number": "US76600005", "title": "Spironolactone for rosacea", "assignee": "DermRx Labs", "filing_date": "2017-12-01", "grant_date": "2022-03-09", "cited_by_count": 22, "url": "https://patents.google.com/patent/US76600005", "known_indications": ["Heart failure", "Hypertension"], "candidate_new_indications": ["Rosacea"], "evidence_hints": "Flare frequency and severity endpoints." }
+  ],
+  "propranolol": [
+    { "patent_number": "US76700001", "title": "Propranolol for infantile hemangioma", "assignee": "Pediacare Therapeutics", "filing_date": "2010-06-15", "grant_date": "2013-11-22", "cited_by_count": 160, "url": "https://patents.google.com/patent/US76700001", "known_indications": ["Hypertension", "Migraine prophylaxis"], "candidate_new_indications": ["Infantile hemangioma"], "evidence_hints": "Lesion size reduction and safety monitoring." },
+    { "patent_number": "US76700002", "title": "Propranolol for anxiety in performance settings", "assignee": "MindCare Labs", "filing_date": "2012-03-04", "grant_date": "2016-05-29", "cited_by_count": 80, "url": "https://patents.google.com/patent/US76700002", "known_indications": ["Hypertension", "Migraine prophylaxis"], "candidate_new_indications": ["Performance anxiety"], "evidence_hints": "Heart rate variability and anxiety scales." },
+    { "patent_number": "US76700003", "title": "Propranolol for PTSD reconsolidation blockade", "assignee": "NeuroCure Inc.", "filing_date": "2014-02-20", "grant_date": "2018-09-11", "cited_by_count": 65, "url": "https://patents.google.com/patent/US76700003", "known_indications": ["Hypertension", "Migraine prophylaxis"], "candidate_new_indications": ["PTSD"], "evidence_hints": "Memory reconsolidation paradigms cited." },
+    { "patent_number": "US76700004", "title": "Topical propranolol for superficial hemangiomas", "assignee": "DermRx Labs", "filing_date": "2015-11-09", "grant_date": "2020-02-28", "cited_by_count": 45, "url": "https://patents.google.com/patent/US76700004", "known_indications": ["Hypertension", "Migraine prophylaxis"], "candidate_new_indications": ["Topical vascular lesions"], "evidence_hints": "Local vasoconstrictive effects documented." },
+    { "patent_number": "US76700005", "title": "Propranolol for essential tremor optimization protocol", "assignee": "NeuroEndo Therapeutics", "filing_date": "2017-07-03", "grant_date": "2022-01-04", "cited_by_count": 20, "url": "https://patents.google.com/patent/US76700005", "known_indications": ["Hypertension", "Migraine prophylaxis"], "candidate_new_indications": ["Essential tremor protocol"], "evidence_hints": "Dose-titration schedule and tremor scales." }
+  ],
+  "amantadine": [
+    { "patent_number": "US76800001", "title": "Amantadine for post-COVID fatigue", "assignee": "InfectioRx Inc.", "filing_date": "2020-05-19", "grant_date": "2023-08-31", "cited_by_count": 30, "url": "https://patents.google.com/patent/US76800001", "known_indications": ["Influenza A", "Parkinson’s"], "candidate_new_indications": ["Post-COVID fatigue"], "evidence_hints": "Functional capacity scales and fatigue measures." },
+    { "patent_number": "US76800002", "title": "Amantadine for ADHD symptoms", "assignee": "NeuroCure Inc.", "filing_date": "2014-12-22", "grant_date": "2018-10-17", "cited_by_count": 65, "url": "https://patents.google.com/patent/US76800002", "known_indications": ["Influenza A", "Parkinson’s"], "candidate_new_indications": ["ADHD"], "evidence_hints": "Attention/executive function scales cited." },
+    { "patent_number": "US76800003", "title": "Amantadine for TBI cognitive recovery", "assignee": "NeuroCure Inc.", "filing_date": "2015-07-30", "grant_date": "2019-12-02", "cited_by_count": 52, "url": "https://patents.google.com/patent/US76800003", "known_indications": ["Influenza A", "Parkinson’s"], "candidate_new_indications": ["TBI cognitive recovery"], "evidence_hints": "Neurocognitive batteries and functional scales." },
+    { "patent_number": "US76800004", "title": "Amantadine for levodopa-induced dyskinesia optimization", "assignee": "NeuroCure Inc.", "filing_date": "2016-04-09", "grant_date": "2020-08-19", "cited_by_count": 35, "url": "https://patents.google.com/patent/US76800004", "known_indications": ["Influenza A", "Parkinson’s"], "candidate_new_indications": ["Dyskinesia protocol"], "evidence_hints": "Dose timing and symptom scales." },
+    { "patent_number": "US76800005", "title": "Amantadine for fatigue in MS", "assignee": "NeuroCure Inc.", "filing_date": "2017-03-18", "grant_date": "2021-06-11", "cited_by_count": 28, "url": "https://patents.google.com/patent/US76800005", "known_indications": ["Influenza A", "Parkinson’s"], "candidate_new_indications": ["MS fatigue"], "evidence_hints": "Fatigue severity scale and QoL endpoints." }
+  ],
+  "ivermectin": [
+    { "patent_number": "US76900001", "title": "Ivermectin topical for rosacea subtype 2", "assignee": "DermRx Labs", "filing_date": "2012-06-14", "grant_date": "2016-02-12", "cited_by_count": 110, "url": "https://patents.google.com/patent/US76900001", "known_indications": ["Parasitic infections"], "candidate_new_indications": ["Rosacea"], "evidence_hints": "Inflammatory lesion count and erythema scores." },
+    { "patent_number": "US76900002", "title": "Ivermectin for scabies outbreak protocols", "assignee": "InfectioRx Inc.", "filing_date": "2014-08-23", "grant_date": "2018-09-01", "cited_by_count": 75, "url": "https://patents.google.com/patent/US76900002", "known_indications": ["Parasitic infections"], "candidate_new_indications": ["Public health outbreak protocol"], "evidence_hints": "Dosing/intervals and logistic constraints." },
+    { "patent_number": "US76900003", "title": "Ivermectin for head lice with occlusive agents", "assignee": "DermRx Labs", "filing_date": "2015-02-11", "grant_date": "2019-05-20", "cited_by_count": 50, "url": "https://patents.google.com/patent/US76900003", "known_indications": ["Parasitic infections"], "candidate_new_indications": ["Lice protocol"], "evidence_hints": "Combination with occlusive agents for efficacy." },
+    { "patent_number": "US76900004", "title": "Ivermectin for rosacea maintenance", "assignee": "DermRx Labs", "filing_date": "2016-09-15", "grant_date": "2020-03-29", "cited_by_count": 42, "url": "https://patents.google.com/patent/US76900004", "known_indications": ["Parasitic infections"], "candidate_new_indications": ["Rosacea maintenance"], "evidence_hints": "Flare frequency reduction endpoints." },
+    { "patent_number": "US76900005", "title": "Ivermectin nanoformulation for onchocerciasis",
+      "assignee": "InfectioRx Inc.", "filing_date": "2017-12-09", "grant_date": "2022-04-22",
+      "cited_by_count": 30, "url": "https://patents.google.com/patent/US76900005",
+      "known_indications": ["Parasitic infections"], "candidate_new_indications": ["Improved delivery for onchocerciasis"], "evidence_hints": "Nanocarrier enhances bioavailability; improved response." }
+  ]
+}

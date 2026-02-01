@@ -1,0 +1,225 @@
+[
+  {
+    "drug_name": "semaglutide",
+    "condition": "obesity",
+    "global_market_size_usd_bn": 25.4,
+    "forecast_market_size_usd_bn_2030": 68.0,
+    "cagr_percent": 18.5,
+    "patient_population_millions": 650,
+    "treated_population_percent": 6.2,
+    "number_of_competitors": 8,
+    "branded_vs_generic_mix": "branded-dominant",
+    "key_competitor_classes": ["GLP-1 agonists", "Dual GLP-1/GIP"],
+    "commercial_signals": [
+      "Strong payer uptake in US and EU",
+      "Supply constraints impacting near-term sales"
+    ],
+    "risks": [
+      "Pricing pressure from next-generation incretins",
+      "Long-term cardiovascular outcomes scrutiny"
+    ]
+  },
+  {
+    "drug_name": "semaglutide",
+    "condition": "type 2 diabetes",
+    "global_market_size_usd_bn": 45.0,
+    "forecast_market_size_usd_bn_2030": 72.5,
+    "cagr_percent": 9.8,
+    "patient_population_millions": 420,
+    "treated_population_percent": 28.0,
+    "number_of_competitors": 12,
+    "branded_vs_generic_mix": "branded-heavy",
+    "key_competitor_classes": ["GLP-1 agonists", "Insulin", "SGLT2 inhibitors"],
+    "commercial_signals": [
+      "GLP-1s shifting standard of care",
+      "Strong guideline support"
+    ],
+    "risks": [
+      "Formulary exclusions in price-sensitive markets"
+    ]
+  },
+  {
+    "drug_name": "metformin",
+    "condition": "nonalcoholic steatohepatitis",
+    "global_market_size_usd_bn": 6.2,
+    "forecast_market_size_usd_bn_2030": 21.0,
+    "cagr_percent": 22.1,
+    "patient_population_millions": 115,
+    "treated_population_percent": 2.5,
+    "number_of_competitors": 15,
+    "branded_vs_generic_mix": "generic-heavy",
+    "key_competitor_classes": ["Metabolic modulators", "FXR agonists"],
+    "commercial_signals": [
+      "High unmet need with no approved therapies",
+      "Multiple late-stage pipeline assets"
+    ],
+    "risks": [
+      "High clinical failure rates in NASH",
+      "Regulatory uncertainty on endpoints"
+    ]
+  },
+  {
+    "drug_name": "naltrexone",
+    "condition": "crohn’s disease",
+    "global_market_size_usd_bn": 14.8,
+    "forecast_market_size_usd_bn_2030": 26.0,
+    "cagr_percent": 7.3,
+    "patient_population_millions": 6.5,
+    "treated_population_percent": 65.0,
+    "number_of_competitors": 10,
+    "branded_vs_generic_mix": "biologic-dominant",
+    "key_competitor_classes": ["Anti-TNF", "IL-23 inhibitors"],
+    "commercial_signals": [
+      "Biologics dominate prescribing",
+      "Interest in low-cost oral adjuncts"
+    ],
+    "risks": [
+      "Crowded biologics market",
+      "Switching barriers"
+    ]
+  },
+  {
+    "drug_name": "minoxidil",
+    "condition": "alopecia",
+    "global_market_size_usd_bn": 9.5,
+    "forecast_market_size_usd_bn_2030": 15.2,
+    "cagr_percent": 6.1,
+    "patient_population_millions": 180,
+    "treated_population_percent": 12.0,
+    "number_of_competitors": 6,
+    "branded_vs_generic_mix": "generic-dominant",
+    "key_competitor_classes": ["Topical vasodilators", "Anti-androgens"],
+    "commercial_signals": [
+      "Strong OTC demand",
+      "Cosmetic dermatology driven growth"
+    ],
+    "risks": [
+      "Low barriers to entry",
+      "Limited pricing power"
+    ]
+  },
+  {
+    "drug_name": "ketamine",
+    "condition": "treatment-resistant depression",
+    "global_market_size_usd_bn": 3.8,
+    "forecast_market_size_usd_bn_2030": 9.4,
+    "cagr_percent": 16.7,
+    "patient_population_millions": 30,
+    "treated_population_percent": 4.0,
+    "number_of_competitors": 5,
+    "branded_vs_generic_mix": "branded-specialty",
+    "key_competitor_classes": ["NMDA antagonists", "Psychedelic-assisted therapy"],
+    "commercial_signals": [
+      "Clinic-based administration models",
+      "Rapid onset differentiates from SSRIs"
+    ],
+    "risks": [
+      "Abuse potential",
+      "Reimbursement uncertainty"
+    ]
+  },
+  {
+    "drug_name": "n-acetylcysteine",
+    "condition": "copd",
+    "global_market_size_usd_bn": 18.2,
+    "forecast_market_size_usd_bn_2030": 24.1,
+    "cagr_percent": 4.8,
+    "patient_population_millions": 300,
+    "treated_population_percent": 35.0,
+    "number_of_competitors": 20,
+    "branded_vs_generic_mix": "generic-heavy",
+    "key_competitor_classes": ["Bronchodilators", "Mucolytics"],
+    "commercial_signals": [
+      "Broad global usage",
+      "Strong presence in emerging markets"
+    ],
+    "risks": [
+      "Low differentiation",
+      "Price erosion"
+    ]
+  },
+  {
+    "drug_name": "spironolactone",
+    "condition": "adult female acne",
+    "global_market_size_usd_bn": 7.1,
+    "forecast_market_size_usd_bn_2030": 11.3,
+    "cagr_percent": 6.9,
+    "patient_population_millions": 90,
+    "treated_population_percent": 18.0,
+    "number_of_competitors": 9,
+    "branded_vs_generic_mix": "generic-dominant",
+    "key_competitor_classes": ["Hormonal therapies", "Retinoids"],
+    "commercial_signals": [
+      "Off-label prescribing growth",
+      "High dermatologist acceptance"
+    ],
+    "risks": [
+      "Lack of formal indication",
+      "Monitoring requirements"
+    ]
+  },
+  {
+    "drug_name": "propranolol",
+    "condition": "performance anxiety",
+    "global_market_size_usd_bn": 2.6,
+    "forecast_market_size_usd_bn_2030": 4.1,
+    "cagr_percent": 5.8,
+    "patient_population_millions": 55,
+    "treated_population_percent": 9.0,
+    "number_of_competitors": 7,
+    "branded_vs_generic_mix": "generic-heavy",
+    "key_competitor_classes": ["Beta blockers", "Anxiolytics"],
+    "commercial_signals": [
+      "Event-driven usage pattern",
+      "Strong physician familiarity"
+    ],
+    "risks": [
+      "Off-label reimbursement limits"
+    ]
+  },
+  {
+    "drug_name": "amantadine",
+    "condition": "post-covid fatigue",
+    "global_market_size_usd_bn": 4.9,
+    "forecast_market_size_usd_bn_2030": 12.8,
+    "cagr_percent": 20.4,
+    "patient_population_millions": 80,
+    "treated_population_percent": 3.5,
+    "number_of_competitors": 4,
+    "branded_vs_generic_mix": "generic-light",
+    "key_competitor_classes": ["CNS stimulants", "Neuro-modulators"],
+    "commercial_signals": [
+      "Emerging long-COVID clinics",
+      "Limited therapeutic options"
+    ],
+    "risks": [
+      "Unclear regulatory pathways",
+      "Heterogeneous patient definitions"
+    ]
+  },
+  {
+  "drug_name": "ketamine",
+  "condition": "postpartum depression",
+  "global_market_size_usd_bn": 1.2,
+  "forecast_market_size_usd_bn_2030": 3.6,
+  "cagr_percent": 14.8,
+  "patient_population_millions": 12,
+  "treated_population_percent": 6,
+  "number_of_competitors": 3,
+  "branded_vs_generic_mix": "branded-dominant",
+  "key_competitor_classes": [
+    "NMDA antagonists",
+    "neurosteroid antidepressants"
+  ],
+  "commercial_signals": [
+    "Growing recognition of postpartum depression as a distinct treatable condition",
+    "Rapid-acting antidepressants gaining payer interest",
+    "Specialty clinic-driven adoption"
+  ],
+  "risks": [
+    "Administration setting constraints (IV/clinic-based)",
+    "Safety and abuse perception risks",
+    "Reimbursement variability across regions"
+  ]
+}
+]

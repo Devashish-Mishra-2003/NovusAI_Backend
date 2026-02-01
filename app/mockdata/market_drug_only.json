@@ -1,0 +1,124 @@
+[
+  {
+    "drug_name": "semaglutide",
+    "global_market_size_usd_bn": 70.4,
+    "forecast_market_size_usd_bn_2030": 140.5,
+    "cagr_percent": 12.7,
+    "patient_population_millions": 650,
+    "treated_population_percent": 14.8,
+    "number_of_competitors": 12,
+    "branded_vs_generic_mix": "branded-dominant",
+    "key_competitor_classes": [
+      "GLP-1 agonists",
+      "Dual GLP-1/GIP",
+      "Insulin",
+      "SGLT2 inhibitors"
+    ],
+    "commercial_signals": [
+      "Strong payer uptake in US and EU",
+      "Supply constraints impacting near-term sales",
+      "GLP-1s shifting standard of care",
+      "Strong guideline support"
+    ],
+    "risks": [
+      "Pricing pressure from next-generation incretins",
+      "Long-term cardiovascular outcomes scrutiny",
+      "Formulary exclusions in price-sensitive markets"
+    ]
+  },
+  {
+    "drug_name": "ketamine",
+    "global_market_size_usd_bn": 5.0,
+    "forecast_market_size_usd_bn_2030": 13.0,
+    "cagr_percent": 16.2,
+    "patient_population_millions": 30,
+    "treated_population_percent": 4.7,
+    "number_of_competitors": 5,
+    "branded_vs_generic_mix": "branded-specialty",
+    "key_competitor_classes": [
+      "NMDA antagonists",
+      "Psychedelic-assisted therapy",
+      "neurosteroid antidepressants"
+    ],
+    "commercial_signals": [
+      "Clinic-based administration models",
+      "Rapid onset differentiates from SSRIs",
+      "Growing recognition of postpartum depression as a distinct treatable condition",
+      "Rapid-acting antidepressants gaining payer interest",
+      "Specialty clinic-driven adoption"
+    ],
+    "risks": [
+      "Abuse potential",
+      "Reimbursement uncertainty",
+      "Administration setting constraints (IV/clinic-based)",
+      "Safety and abuse perception risks",
+      "Reimbursement variability across regions"
+    ]
+  },
+  {
+    "drug_name": "metformin",
+    "global_market_size_usd_bn": 6.2,
+    "forecast_market_size_usd_bn_2030": 21.0,
+    "cagr_percent": 22.1,
+    "patient_population_millions": 115,
+    "treated_population_percent": 2.5,
+    "number_of_competitors": 15,
+    "branded_vs_generic_mix": "generic-heavy",
+    "key_competitor_classes": [
+      "Metabolic modulators",
+      "FXR agonists"
+    ],
+    "commercial_signals": [
+      "High unmet need with no approved therapies",
+      "Multiple late-stage pipeline assets"
+    ],
+    "risks": [
+      "High clinical failure rates in NASH",
+      "Regulatory uncertainty on endpoints"
+    ]
+  },
+  {
+    "drug_name": "naltrexone",
+    "global_market_size_usd_bn": 14.8,
+    "forecast_market_size_usd_bn_2030": 26.0,
+    "cagr_percent": 7.3,
+    "patient_population_millions": 6.5,
+    "treated_population_percent": 65.0,
+    "number_of_competitors": 10,
+    "branded_vs_generic_mix": "biologic-dominant",
+    "key_competitor_classes": [
+      "Anti-TNF",
+      "IL-23 inhibitors"
+    ],
+    "commercial_signals": [
+      "Biologics dominate prescribing",
+      "Interest in low-cost oral adjuncts"
+    ],
+    "risks": [
+      "Crowded biologics market",
+      "Switching barriers"
+    ]
+  },
+  {
+    "drug_name": "minoxidil",
+    "global_market_size_usd_bn": 9.5,
+    "forecast_market_size_usd_bn_2030": 15.2,
+    "cagr_percent": 6.1,
+    "patient_population_millions": 180,
+    "treated_population_percent": 12.0,
+    "number_of_competitors": 6,
+    "branded_vs_generic_mix": "generic-dominant",
+    "key_competitor_classes": [
+      "Topical vasodilators",
+      "Anti-androgens"
+    ],
+    "commercial_signals": [
+      "Strong OTC demand",
+      "Cosmetic dermatology driven growth"
+    ],
+    "risks": [
+      "Low barriers to entry",
+      "Limited pricing power"
+    ]
+  }
+]

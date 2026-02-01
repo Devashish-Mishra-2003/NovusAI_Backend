@@ -1,0 +1,237 @@
+{
+  "oncology_immunotherapy": [
+    {
+      "patent_number": "US10000001",
+      "title": "Checkpoint inhibitor combination therapy for solid tumors",
+      "assignee": "OncoBio Inc.",
+      "filing_date": "2014-06-15",
+      "grant_date": "2018-07-10",
+      "cited_by_count": 210,
+      "url": "https://patents.google.com/patent/US10000001"
+    },
+    {
+      "patent_number": "US10000002",
+      "title": "PD-1 antibody formulations with improved stability",
+      "assignee": "PharmaGen Corp.",
+      "filing_date": "2015-03-02",
+      "grant_date": "2019-01-05",
+      "cited_by_count": 145,
+      "url": "https://patents.google.com/patent/US10000002"
+    },
+    {
+      "patent_number": "US10000003",
+      "title": "Neoantigen-based personalized cancer vaccine",
+      "assignee": "ImmuneNext Biotech",
+      "filing_date": "2017-11-21",
+      "grant_date": "2021-02-18",
+      "cited_by_count": 95,
+      "url": "https://patents.google.com/patent/US10000003"
+    },
+    {
+      "patent_number": "US10000004",
+      "title": "Bispecific antibody targeting PD-L1 and CTLA-4",
+      "assignee": "OncoBio Inc.",
+      "filing_date": "2016-09-09",
+      "grant_date": "2020-03-30",
+      "cited_by_count": 130,
+      "url": "https://patents.google.com/patent/US10000004"
+    },
+    {
+      "patent_number": "US10000005",
+      "title": "Combination of immune checkpoint inhibitor with oncolytic virus",
+      "assignee": "ViroThera Ltd.",
+      "filing_date": "2018-01-12",
+      "grant_date": "2022-06-01",
+      "cited_by_count": 40,
+      "url": "https://patents.google.com/patent/US10000005"
+    }
+  ],
+  "diabetes_glp1": [
+    {
+      "patent_number": "US20000001",
+      "title": "Long-acting GLP-1 receptor agonist formulations",
+      "assignee": "MetaboRx Pharma",
+      "filing_date": "2013-04-10",
+      "grant_date": "2017-05-20",
+      "cited_by_count": 180,
+      "url": "https://patents.google.com/patent/US20000001"
+    },
+    {
+      "patent_number": "US20000002",
+      "title": "Once-weekly injectable GLP-1 analogs",
+      "assignee": "Nordic Endocrine A/S",
+      "filing_date": "2012-09-01",
+      "grant_date": "2016-02-11",
+      "cited_by_count": 220,
+      "url": "https://patents.google.com/patent/US20000002"
+    },
+    {
+      "patent_number": "US20000003",
+      "title": "Oral GLP-1 delivery using permeation enhancers",
+      "assignee": "OralBio Therapeutics",
+      "filing_date": "2016-07-19",
+      "grant_date": "2020-01-09",
+      "cited_by_count": 75,
+      "url": "https://patents.google.com/patent/US20000003"
+    },
+    {
+      "patent_number": "US20000004",
+      "title": "Fixed-dose combination of GLP-1 agonist with basal insulin",
+      "assignee": "MetaboRx Pharma",
+      "filing_date": "2015-11-05",
+      "grant_date": "2019-09-14",
+      "cited_by_count": 110,
+      "url": "https://patents.google.com/patent/US20000004"
+    },
+    {
+      "patent_number": "US20000005",
+      "title": "Cardioprotective GLP-1 analogs for high‑risk diabetics",
+      "assignee": "CardioMetrix AG",
+      "filing_date": "2017-03-30",
+      "grant_date": "2021-08-03",
+      "cited_by_count": 60,
+      "url": "https://patents.google.com/patent/US20000005"
+    }
+  ],
+  "alzheimers_amyloid": [
+    {
+      "patent_number": "US30000001",
+      "title": "Monoclonal antibodies targeting aggregated beta-amyloid",
+      "assignee": "NeuroCure Inc.",
+      "filing_date": "2010-02-13",
+      "grant_date": "2014-06-25",
+      "cited_by_count": 260,
+      "url": "https://patents.google.com/patent/US30000001"
+    },
+    {
+      "patent_number": "US30000002",
+      "title": "Subcutaneous formulations of anti-amyloid antibodies",
+      "assignee": "NeuroCure Inc.",
+      "filing_date": "2012-08-09",
+      "grant_date": "2016-01-19",
+      "cited_by_count": 150,
+      "url": "https://patents.google.com/patent/US30000002"
+    },
+    {
+      "patent_number": "US30000003",
+      "title": "Small-molecule inhibitors of amyloid aggregation",
+      "assignee": "CognitiveRx Ltd.",
+      "filing_date": "2015-10-03",
+      "grant_date": "2019-04-27",
+      "cited_by_count": 95,
+      "url": "https://patents.google.com/patent/US30000003"
+    },
+    {
+      "patent_number": "US30000004",
+      "title": "Amyloid PET imaging agents with improved brain penetration",
+      "assignee": "ImagingDx Corp.",
+      "filing_date": "2013-01-18",
+      "grant_date": "2017-09-12",
+      "cited_by_count": 70,
+      "url": "https://patents.google.com/patent/US30000004"
+    },
+    {
+      "patent_number": "US30000005",
+      "title": "Combination of anti-amyloid antibody with BACE inhibitor",
+      "assignee": "NeuroCure Inc.",
+      "filing_date": "2016-06-07",
+      "grant_date": "2020-11-30",
+      "cited_by_count": 55,
+      "url": "https://patents.google.com/patent/US30000005"
+    }
+  ],
+  "asthma_biologics": [
+    {
+      "patent_number": "US40000001",
+      "title": "Anti-IL-5 antibody for severe eosinophilic asthma",
+      "assignee": "RespiraBio plc",
+      "filing_date": "2011-05-22",
+      "grant_date": "2015-09-17",
+      "cited_by_count": 190,
+      "url": "https://patents.google.com/patent/US40000001"
+    },
+    {
+      "patent_number": "US40000002",
+      "title": "Anti-IL-4/IL-13 bispecific antibody compositions",
+      "assignee": "AllerGenix Inc.",
+      "filing_date": "2013-09-11",
+      "grant_date": "2017-02-03",
+      "cited_by_count": 130,
+      "url": "https://patents.google.com/patent/US40000002"
+    },
+    {
+      "patent_number": "US40000003",
+      "title": "Subcutaneous depot formulations for asthma biologics",
+      "assignee": "RespiraBio plc",
+      "filing_date": "2015-02-04",
+      "grant_date": "2019-06-09",
+      "cited_by_count": 80,
+      "url": "https://patents.google.com/patent/US40000003"
+    },
+    {
+      "patent_number": "US40000004",
+      "title": "Biologics for steroid‑refractory asthma",
+      "assignee": "PulmoNext Therapeutics",
+      "filing_date": "2016-10-14",
+      "grant_date": "2020-03-14",
+      "cited_by_count": 60,
+      "url": "https://patents.google.com/patent/US40000004"
+    },
+    {
+      "patent_number": "US40000005",
+      "title": "Inhaled biologic delivery for type‑2 asthma",
+      "assignee": "AeroBio Devices",
+      "filing_date": "2017-12-19",
+      "grant_date": "2021-07-01",
+      "cited_by_count": 35,
+      "url": "https://patents.google.com/patent/US40000005"
+    }
+  ],
+  "antibiotic_resistance": [
+    {
+      "patent_number": "US50000001",
+      "title": "Novel beta-lactamase inhibitors for multi‑drug resistant infections",
+      "assignee": "InfectioRx Inc.",
+      "filing_date": "2012-03-05",
+      "grant_date": "2016-01-11",
+      "cited_by_count": 160,
+      "url": "https://patents.google.com/patent/US50000001"
+    },
+    {
+      "patent_number": "US50000002",
+      "title": "Combination of polymyxin with efflux pump inhibitors",
+      "assignee": "ResistX Pharma",
+      "filing_date": "2014-09-12",
+      "grant_date": "2018-05-23",
+      "cited_by_count": 90,
+      "url": "https://patents.google.com/patent/US50000002"
+    },
+    {
+      "patent_number": "US50000003",
+      "title": "Rapid diagnostics for carbapenem‑resistant Enterobacteriaceae",
+      "assignee": "MicroDx Solutions",
+      "filing_date": "2015-06-01",
+      "grant_date": "2019-02-28",
+      "cited_by_count": 70,
+      "url": "https://patents.google.com/patent/US50000003"
+    },
+    {
+      "patent_number": "US50000004",
+      "title": "Bacteriophage cocktails targeting resistant Gram‑negative pathogens",
+      "assignee": "PhageThera Ltd.",
+      "filing_date": "2016-08-17",
+      "grant_date": "2020-10-06",
+      "cited_by_count": 55,
+      "url": "https://patents.google.com/patent/US50000004"
+    },
+    {
+      "patent_number": "US50000005",
+      "title": "Host‑directed therapies to combat antibiotic resistance",
+      "assignee": "ImmunoBalance Biotech",
+      "filing_date": "2017-11-08",
+      "grant_date": "2021-09-20",
+      "cited_by_count": 40,
+      "url": "https://patents.google.com/patent/US50000005"
+    }
+  ]
+}
