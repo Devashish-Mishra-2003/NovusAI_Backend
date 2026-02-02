@@ -6,7 +6,7 @@ from app.auth.schemas import AuthUser # ← Added Request
 from pydantic import BaseModel
 from typing import List, Optional, Dict, Any
 import asyncio
-import json  # ← Added for visualizations_json
+import json  
 
 import httpx
 import logging
