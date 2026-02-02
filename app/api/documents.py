@@ -19,24 +19,27 @@ async def upload_document(
     if current_user.role != "admin":
         raise HTTPException(status_code=403, detail="Admin only")
 
-    company_id = current_user.company_id
+    # backend safety
+    if file.content_type not in ["application/pdf", "text/plain"]:
+        raise HTTPException(status_code=400, detail="Only PDF and TXT allowed")
 
+    company_id = current_user.company_id
     ext = file.filename.split(".")[-1]
     storage_path = f"{company_id}/{uuid4()}.{ext}"
 
     content = await file.read()
 
-    result = supabase.storage.from_("company_docs").upload(
-        path=storage_path,
-        file=content,
-        file_options={"content-type": file.content_type},
-    )
-
-    if result.status_code >= 400:
-        raise HTTPException(status_code=500, detail=f"Upload failed: {result.text}")
+    try:
+        result = supabase.storage.from_("company_docs").upload(
+            path=storage_path,
+            file=content,
+            file_options={"content-type": file.content_type},
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Upload failed: {str(e)}")
 
     return {
         "message": "Uploaded successfully",
-        "path": storage_path,
+        "path": result.path,
         "filename": file.filename,
     }

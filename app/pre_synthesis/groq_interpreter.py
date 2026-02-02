@@ -10,10 +10,6 @@ from app.config import settings
 
 logger = logging.getLogger("groq-interpreter")
 
-# ======================================================
-# CONFIG — GROQ (FROM ENV)
-# ======================================================
-
 client = OpenAI(
     base_url=settings.GROQ_BASE_URL,
     api_key=settings.GROQ_API_KEY,
@@ -27,7 +23,7 @@ You are a biomedical query interpreter.
 
 Your task is to extract:
 1) the primary drug (if any),
-2) the primary disease or condition (if any),
+2) the primary disease (if any),
 3) the user intent.
 
 OUTPUT FORMAT (EXACTLY 3 LINES):
